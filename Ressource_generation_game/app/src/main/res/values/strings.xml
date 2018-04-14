@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ressource_generation_game</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_game">new_Game</string>
+    <string name="continue_game">Continue</string>
+    <string name="about">About</string>
+    <string name="start">Start</string>
+
+
+</resources>

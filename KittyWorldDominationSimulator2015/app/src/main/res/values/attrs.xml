@@ -1,0 +1,8 @@
+<resources>
+
+    <declare-styleable name="chat_Bubble">
+        <attr name="text" format="string" />
+        <attr name="image" format="reference"></attr>
+    </declare-styleable>
+
+</resources>

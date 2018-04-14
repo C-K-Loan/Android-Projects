@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FastClickerV3.0</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game__screen">Game_Screen</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="score">CurrentScore: </string>
+    <string name="hiScore">HighScore: </string>
+
+    <string name="title_activity_after__game_">After_Game_Activity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_game__over_activity">Game_Over_activity</string>
+
+</resources>

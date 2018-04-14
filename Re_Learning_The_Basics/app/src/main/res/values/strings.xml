@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Re_Learning_The_Basics</string>
+    <string name="app_header">Best App 2015 Development Livefeed V0.35</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tweet_list">TweetListActivity</string>
+    <string name="no_tweet_found">No Tweets Found!</string>
+
+
+</resources>

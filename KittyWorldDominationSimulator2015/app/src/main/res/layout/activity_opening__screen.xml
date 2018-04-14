@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp" tools:context=".opening_Screen"
+    android:orientation="vertical"
+    android:id="@+id/mainLayout"
+    android:background="#00ff8f"
+    android:focusable="false"
+    android:focusableInTouchMode="false">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/bannerdummy" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="25dp">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Continue"
+            android:id="@+id/continue_Bttn"
+            android:layout_gravity="center_horizontal"
+            android:textSize="45dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Game"
+            android:id="@+id/newGame_Bttn"
+            android:layout_gravity="center_horizontal"
+            android:textSize="45dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Options"
+            android:id="@+id/options_Bttn"
+            android:layout_gravity="center_horizontal"
+            android:textSize="45dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Credits"
+            android:id="@+id/credits_Bttn"
+            android:layout_gravity="center_horizontal"
+            android:textSize="45dp" />
+    </LinearLayout>
+
+</LinearLayout>
